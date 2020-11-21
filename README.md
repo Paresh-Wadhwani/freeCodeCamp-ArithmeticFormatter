@@ -3,6 +3,10 @@ Solution to the freeCodeCamp problem "Arithmetic Formatter".
 <br><br>
 **Link to the challenge:** https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
 <br><br>
+**Link to my solution:** https://repl.it/@pareshwadhwani/freeCodeCamp-ArithmeticFormatter#.replit
+<br>
+_Above repl.it link points to this very Github repo._
+<br><br>
 ### Assignment
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
