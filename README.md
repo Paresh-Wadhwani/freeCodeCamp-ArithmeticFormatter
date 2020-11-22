@@ -5,7 +5,7 @@ Solution to the freeCodeCamp problem "Arithmetic Formatter".
 <br><br>
 **Link to my solution:** https://repl.it/@pareshwadhwani/freeCodeCamp-ArithmeticFormatter#.replit
 <br>
-_Above repl.it link points to this very Github repo._
+_Above repl was cloned from this very Github repo._
 <br><br>
 ### Assignment
 
